@@ -1,0 +1,5 @@
+Halo pak, salam kenal saya Fajar, sedang belajar git dan github di channel bapak.
+
+Resolusi:
+- membuat framework dengan js
+- lulus kuliah tepat waktu
